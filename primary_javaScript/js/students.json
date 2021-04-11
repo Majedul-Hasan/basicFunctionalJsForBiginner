@@ -1,0 +1,21 @@
+
+[
+    {
+        "first": "nasim",
+        "lastL": "box",
+        "age" : 17,
+        "heihgt": 160
+    },
+    {
+        "first": "sumaiya",
+        "lastL": "arshi",
+        "age" : 16,
+        "heihgt": 150
+    },
+    {
+        "first": "zhid",
+        "lastL": "pranto",
+        "age" : 19,
+        "heihgt": 162
+    }
+]
